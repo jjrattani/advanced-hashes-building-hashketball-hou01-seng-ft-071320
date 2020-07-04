@@ -26,7 +26,7 @@ def game_hash()
           :steals,
           :blocks,
           :slam_dunks 
-        }
+        },
       ]
     }
   }
